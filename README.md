@@ -1,5 +1,10 @@
+<div id="user-content-header" align="center" dir="auto">
+    <img src="https://media.tenor.com/VvYRglhVQEMAAAAd/robot-hi.gif" style="max-width: 100%;">
+</div>
+<br>
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">A passionate software engineer</h3>
+<br>
 
 - 🔭 I’m currently working on [Ramadan eCard](https://github.com/SaraAbdullah7687/ramadan-card.git)
 
@@ -7,7 +12,8 @@
 
 - 💬 Ask me about **Flutter, Swift, and Java**
 
-- 📫 How to reach me: <a href="https://linkedin.com/in/sara-alshreef-سارة-الشريف-59a305160" target="_blank" rel="noreferrer">
+- 📫 How to reach me: <a href="https://linkedin.com/in/sara-alshreef-سارة-الشريف-59a305160" target="_blank"
+    rel="noreferrer">
     <img src="https://camo.githubusercontent.com/e0278098417dddf9727cfee70a5eb84af38a20705b3bded56cf91cb5feb29d7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
         alt="LinkedIn Badge" width="70"
         data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
@@ -86,7 +92,8 @@
             src="https://jvmsaas.com/media/blog/cache/840x620/magefan_blog/magento-2-module-copy_1.png" alt="xd"
             width="60" height="40" /> </a>
     <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1920px-DigitalOcean_logo.svg.png" alt="xd" width="40" height="40" /> </a>
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1920px-DigitalOcean_logo.svg.png"
+            alt="xd" width="40" height="40" /> </a>
 </p>
 
 <p><img align="left"
