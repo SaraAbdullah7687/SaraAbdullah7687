@@ -6,7 +6,7 @@
 <h3 align="center">A passionate software engineer</h3>
 <br>
 
-- 🔭 I’m currently working on [Ramadan eCard](https://github.com/SaraAbdullah7687/ramadan-card.git)
+- 🔭 I’m currently working on [E-card Generator](https://github.com/SaraAbdullah7687/eid-card-generator.git)
 
 - 🌱 I’m currently learning **React, and Magento 2**
 
