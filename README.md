@@ -95,7 +95,7 @@
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1920px-DigitalOcean_logo.svg.png"
             alt="xd" width="40" height="40" /> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img
-            src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="xd" width="40" height="40" /> </a>
+            src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="xd" width="40" height="35" /> </a>
 </p>
 
 <p><img align="left"
