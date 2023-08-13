@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [E-card Generator](https://github.com/SaraAbdullah7687/eid-card-generator.git)
 
-- 🌱 I’m currently learning **Spring Boot, React, and Magento 2**
+- 🌱 I’m currently learning **Spring Boot, Vue.js, and Magento 2**
 
 - 💬 Ask me about **Flutter, Swift, and Java**
 
@@ -96,6 +96,8 @@
             alt="xd" width="40" height="40" /> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img
             src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="xd" width="40" height="35" /> </a>
+     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" alt="xd" width="40" height="35" /> </a>
 </p>
 
 <p><img align="left"
