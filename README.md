@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [E-card Generator](https://github.com/SaraAbdullah7687/eid-card-generator.git)
 
-- 🌱 I’m currently learning **Spring Boot, Vue.js, and Magento 2**
+- 🌱 I’m currently learning **Spring Boot, React Native, and Magento 2**
 
 - 💬 Ask me about **Flutter, Swift, and Java**
 
